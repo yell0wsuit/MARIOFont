@@ -1,6 +1,6 @@
 # MARIOFont
 
-![image](https://www.freepremiumfonts.com/service/charset.ashx?id=165466&rs=0&g=500)
+![image](https://i.imgur.com/Gn4b1H9.png)
 
 The Mario Font you usually see in Mario games.  
 This file is found in **Mario Tennis: Ultra Smash**, and again is used in **Super Mario Run**. The image is just a demo for the font, actual font looks different because the image is a recreation of the font by others.  
