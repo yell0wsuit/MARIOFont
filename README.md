@@ -13,7 +13,7 @@ This is a custom font created by Fontworks and Nintendo holds the rights to it. 
 ## MARIOMAKER.otf
 ![image](https://i.imgur.com/X3wnM0K.png)
 
-This is the official font of Super Mario Maker 2, used in its logo and most of the UI. Last updated on 11/28/2018. Extracted from [yuzu emulator](https://github.com/yuzu-emu/yuzu), and decompressed from [WOFF](https://en.wikipedia.org/wiki/Web_Open_Font_Format) to its original format, OTF.
+This is the official font of Super Mario Maker 2, used in its logo and most of the UI. Version 1.3, last updated on 11/28/2018. Extracted from [yuzu emulator](https://github.com/yuzu-emu/yuzu), and decompressed from [WOFF](https://en.wikipedia.org/wiki/Web_Open_Font_Format) to its original format, OTF.
 
 **Mario Maker vs. Mario Maker 2 font**  
 In Super Mario Maker, the font is called `MARIO30th` instead (found in [SCHOLASTIC's Super Mario Maker 3DS PDF](http://www.scholastic.com/nintendo/gamedesign/pdfs/fullteacherguide.pdf)).  
