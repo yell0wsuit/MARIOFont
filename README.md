@@ -17,7 +17,7 @@ This is the official font of Super Mario Maker 2, used in its logo and most of t
 
 **Mario Maker vs. Mario Maker 2 font**  
 In Super Mario Maker, the font is called `MARIO30th` instead (found in [SCHOLASTIC's Super Mario Maker 3DS PDF](http://www.scholastic.com/nintendo/gamedesign/pdfs/fullteacherguide.pdf)).  
-`MARIO30th` apparently lacks lowercase characters [or it does available? (abeit ugly)](https://youtu.be/_9W_y8IlNro?t=400), which is then added in `MARIOMAKER.otf`.
+`MARIO30th` apparently lacks lowercase characters [or it is available? - probably just for `amiibo` word](https://youtu.be/_9W_y8IlNro?t=400), which is then added in `MARIOMAKER.otf`.
 
 ## Copyright
 © Nintendo. All Rights Reserved. MARIO is a trademark of Nintendo.  
