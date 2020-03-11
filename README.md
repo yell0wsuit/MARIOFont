@@ -1,5 +1,5 @@
 # MARIOFont
-The Mario fonts you usually see in Mario games. Currently this repo has: `MARIO_Font_v3_Solid.otf` and `MARIOMAKER.otf`
+The Mario fonts you usually see in Mario games in binary format. Currently this repo has: `MARIO_Font_v3_Solid.otf` and `MARIOMAKER.otf`
 
 ## MARIO_Font_v3_Solid.otf
 ![image](https://i.imgur.com/Gn4b1H9.png)
