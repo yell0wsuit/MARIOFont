@@ -1,5 +1,7 @@
 # MARIOFont
-The Mario fonts you usually see in Mario games in binary format. Currently this repo has: `MARIO_Font_v3_Solid.otf` and `MARIOMAKER.otf`
+Collection of custom-made fonts in Mario games in binary format. Currently this repo has: `MARIO_Font_v3_Solid.otf` and `MARIOMAKER.otf`
+
+**==Also check out [ZeldaGlyphs](https://github.com/yell0wsuit/ZeldaGlyphs), the official font from The Legend of Zelda: Breath of the Wild==**
 
 ## MARIO_Font_v3_Solid.otf
 ![image](https://i.imgur.com/Gn4b1H9.png)
