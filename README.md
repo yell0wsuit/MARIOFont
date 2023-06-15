@@ -7,7 +7,7 @@ Collection of custom-made fonts in Mario games in binary format. Currently this 
 ![image](https://i.imgur.com/Gn4b1H9.png)
 
 The UI (time and score) and logo font in most Super Mario series.  
-This file is found in **Mario Tennis: Ultra Smash**, and again is used in **Super Mario Run**. In **Dr. Mario World**, the font file is updated and embedded inside *globalgamemanagers* (a Unity archive file).  
+This file is found in **Mario Tennis: Ultra Smash**, and again is used in **Mario & Sonic at the Rio 2016 Olympic Games** and **Super Mario Run**. In **Dr. Mario World**, the font file is updated and embedded inside *globalgamemanagers* (a Unity archive file).  
 It supports basic Latin, full Hiragana and Katakana, some Kanjis, and some Cyrillic characters.
 
 This is a custom font created by Fontworks and Nintendo holds the rights to it. Latest version is v3.203 on 8/20/2019.
